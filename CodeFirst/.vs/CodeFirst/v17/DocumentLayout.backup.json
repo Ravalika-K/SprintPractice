@@ -1,0 +1,413 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MVC\\CodeFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\iservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\iservice\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\cf\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\cf\\applicationdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\service\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\viewmodels\\employeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\viewmodels\\employeedepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\shared\\myfirstpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\shared\\myfirstpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\departments\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\departments\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\migrations\\applicationdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\applicationdbmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\departments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\departments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\migrations\\20241003063948_employee table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\20241003063948_employee table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\migrations\\20241002111252_initial table creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\migrations\\20241002111252_initial table creation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|d:\\mvc\\codefirst\\codefirst\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2742F04-3810-454B-AA72-98B51880AA2E}|CodeFirst\\CodeFirst.csproj|solutionrelative:codefirst\\views\\departments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:56:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDB.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\CF\\ApplicationDB.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\CF\\ApplicationDB.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\CF\\ApplicationDB.cs",
+              "RelativeToolTip": "CodeFirst\\CF\\ApplicationDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:52:17.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Employee.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Models\\Employee.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:23:52.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Service\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Service\\DepartmentService.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Service\\DepartmentService.cs",
+              "RelativeToolTip": "CodeFirst\\Service\\DepartmentService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:15:43.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Program.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Program.cs",
+              "RelativeToolTip": "CodeFirst\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:41:29.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Models\\Department.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Models\\Department.cs",
+              "RelativeToolTip": "CodeFirst\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T10:40:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDepartmentService.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\IService\\IDepartmentService.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\IService\\IDepartmentService.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\IService\\IDepartmentService.cs",
+              "RelativeToolTip": "CodeFirst\\IService\\IDepartmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T06:11:32.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "CodeFirst\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:51:37.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDepartment.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\ViewModels\\EmployeeDepartment.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\ViewModels\\EmployeeDepartment.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\ViewModels\\EmployeeDepartment.cs",
+              "RelativeToolTip": "CodeFirst\\ViewModels\\EmployeeDepartment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T11:09:13.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:41:09.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Departments\\Index.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T12:07:24.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MyFirstPartialView.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\MyFirstPartialView.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Shared\\MyFirstPartialView.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\MyFirstPartialView.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Shared\\MyFirstPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T09:55:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T17:07:13.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\appsettings.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.json",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\appsettings.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T10:58:52.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Update.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Departments\\Update.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Update.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Departments\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:37:50.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T12:09:45.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDBModelSnapshot.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\ApplicationDBModelSnapshot.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:27:41.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Departments\\Create.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Create.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Departments\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T12:08:51.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Departments\\Delete.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Departments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-04T06:39:24.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "CodeFirst\\appsettings.Development.json",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\appsettings.Development.json",
+              "RelativeToolTip": "CodeFirst\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-03T15:50:35.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-03T07:05:38.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241003063948_Employee Table.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\20241003063948_Employee Table.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\20241003063948_Employee Table.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\20241003063948_Employee Table.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\20241003063948_Employee Table.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:39:48.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241002111252_initial table creation.cs",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\20241002111252_initial table creation.cs",
+              "RelativeDocumentMoniker": "CodeFirst\\Migrations\\20241002111252_initial table creation.cs",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Migrations\\20241002111252_initial table creation.cs",
+              "RelativeToolTip": "CodeFirst\\Migrations\\20241002111252_initial table creation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:12:52.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirst\\Views\\Departments\\Details.cshtml",
+              "ToolTip": "D:\\MVC\\CodeFirst\\CodeFirst\\Views\\Departments\\Details.cshtml",
+              "RelativeToolTip": "CodeFirst\\Views\\Departments\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T12:08:12.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
